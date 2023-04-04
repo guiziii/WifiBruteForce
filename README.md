@@ -5,4 +5,5 @@
 ## 1) O que foi utilizado?
 
 - Python
-- Os
+  - Os
+  - Subprocess
